@@ -7,6 +7,8 @@
     'description': """Invoice Summary Report""",
     'license':'AGPL-3',
     'category': 'Accounting',
+    'price': '15.0',
+    'currency': 'USD',
 
     'author' : 'Odoo Consultant medconsultantweb@gmail.com',
     'website' : 'http://www.weblemon.org',
