@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 {
-    'name': 'Invoice Summary Report',
+    'name': 'PDF and CSV Invoice Summary Report',
     'version': '15.0.1',
-    'summary': 'Invoice Summary Report',
-    'description': """Invoice Summary Report""",
+    'summary': 'PDF and CSV Invoice Summary Report',
+    'description': """PDF and CSV Invoice Summary Report""",
     'license':'AGPL-3',
     'category': 'Accounting',
     'price': '15.0',
